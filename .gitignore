@@ -125,3 +125,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+ecommerce-5fb1f-firebase-adminsdk-mcjsg-ae9f9d088c.json
